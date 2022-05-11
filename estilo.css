@@ -1,0 +1,62 @@
+#matemagica{
+    position: absolute;
+    color: #FFFFFF;
+    font-size: 50px;
+}
+
+#navigation {
+    padding-right: 180px;
+    background-color: #F6F0E0;
+}
+    
+#wrapper {
+    display: inline-flex;
+    flex-diretion: row;
+    
+}
+
+.texto {
+    display: block;
+    float: right;
+    margin-right: 10px;
+    
+}
+.a {
+    justify-content: flex-start;
+}
+
+#footer {
+    display: inline-flex;
+    flex-diretion: row;
+}
+
+#educacao {
+    margin-left: 300px;
+}
+
+.tit-sub{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.listas{
+    list-style: none;
+    background-color: #0b340b;
+    color: #FFFFFF;
+}
+
+#tabuada {
+    font-weight: bold;
+    font-size: white;
+    text-align: center;
+}
+
+.imagens{
+    width: 300px;
+}
+
+#quadro{
+    position: static;
+    width: 5px;
+}
+
